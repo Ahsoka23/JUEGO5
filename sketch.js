@@ -32,9 +32,7 @@ function preload(){
    restartImg = loadImage("restart.png")
   gameOverImg = loadImage("gameOver.png")
   
-  jumpSound = loadSound("jump.mp3")
-  dieSound = loadSound("die.mp3")
-  checkPointSound = loadSound("checkPoint.mp3")
+ 
 }
 
 function setup() {
